@@ -1,3 +1,5 @@
+*Commande pour supprimer les tables : drope TABLE ... * 
+
 CREATE TABLE Signalement (
 	idUser int PRIMARY KEY,
 	idPublication int ,
